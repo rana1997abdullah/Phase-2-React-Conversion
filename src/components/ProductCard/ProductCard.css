@@ -1,0 +1,27 @@
+.card{
+    width: 16rem;
+    margin: 16px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border: 0 !important;
+    padding: 0;
+}
+.card-img-top{
+    background-color: rgba(242, 241, 239,0.5);
+    height: 200px;
+    object-fit: contain;
+}
+.card-text{
+    color:#f08804 ;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.card-title{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.category{
+    text-transform: capitalize;
+}
+

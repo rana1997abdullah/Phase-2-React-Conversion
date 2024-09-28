@@ -1,0 +1,21 @@
+.outer-header{
+    color: #f08804 !important;
+    font-size: 20px;
+}
+.header-nav{
+    background-color: #131921;
+    color: #f08804;
+    height: 60px;
+    align-items: center;
+    display: flex;
+    padding: 1px 8px 0 6px;
+    width: 100%;
+}
+.inner-header{
+    display: flex;
+    justify-content: start;
+    flex-direction: row;
+    background-color: #232f3e;
+    height: 39px;
+    padding: 0 !important;
+}

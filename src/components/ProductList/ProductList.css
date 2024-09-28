@@ -1,0 +1,20 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem;
+}
+.filter-button{
+    background-color: #232f3e;
+    color: #f08804;
+    border:0;
+    padding: 6px;
+    text-transform: capitalize;
+  }
+  .filter-button:hover{
+    border: 1px solid white;
+    border-color: white;
+    margin: 1px;
+  }
+  .filter-button:focus{
+    color: white;
+  }
